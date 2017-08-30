@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "./app.js",   //shows the webpack where our app starts
+  entry: "./src/app.js",   //shows the webpack where our app starts
 
   output: {
     filename: "boundle.js"  // where the webpack should store the output
